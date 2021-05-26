@@ -14,7 +14,7 @@
 	<name>BarberShopSpring</name>
 	<description>BarberShop pet project with Spring, Tailwind and PostgreSQL</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 
