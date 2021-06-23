@@ -1,3 +1,4 @@
 # barberShopSpring
-- BarberShop web app with SpringBoot, SpringSecurity and PostgreSQL
+- Website for a barber shop where the guests can get information and book an appointment. Guests will also receive an email notification of the booking.
+- with SpringBoot, SpringSecurity and PostgreSQL
 - Admin page: https://testbarbershopv1.herokuapp.com/admin (user: admin, password: admin)
